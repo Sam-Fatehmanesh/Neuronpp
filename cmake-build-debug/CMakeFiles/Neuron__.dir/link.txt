@@ -1,0 +1,1 @@
+/usr/bin/c++   -ltbb -std=c++20 -fopenmp -g   CMakeFiles/Neuron__.dir/main.cpp.o  -o Neuron__  /usr/lib/libafcuda.so.3.7.2 
